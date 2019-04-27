@@ -1,2 +1,1 @@
-[receive]
-denyCurrentBranch = ignore
+git config --bool core.bare true
